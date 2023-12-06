@@ -1,0 +1,10 @@
+{
+  "repos": [
+    {
+      "org": "Commerce Architects",
+      "name": "CA Accelerator Templates",
+      "description": "A collection of base project templates to kickstart your bespoke application!",
+      "url": "https://github.com/lukewberg/AcceleratorTemplates.git"
+    }
+  ]
+}
